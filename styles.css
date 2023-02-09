@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 15px;
+    background-color: #FFF5E1;
+    color: #2C3238;
+  }
+  
+  h1 {
+    width: 25%;
+    font-size: 40px;
+    margin: 20px auto 2% auto;
+    font-family: 'BIZ UDPMincho', serif;
+    color: #B2C8DF;
+  }
+  
+  #img-div {
+    background-color: #bfbec5;
+  }
+  
+  #image {
+    max-width:100%;
+    height: auto;
+    display: block;
+   border-radius: 50%;
+   margin: 30px auto 30px auto;
+   
+  }
+  
+  figcaption {
+    font-size: 15px;
+    color: #2C3238;
+  }
+  
+  p {
+    font-size: 20px;
+    color: #B2C8DF;
+  }
+  
+  #list-div {
+    color: #bfbec5;
+    font-size: 20px;
+    display: table;
+    margin: 0 auto;
+  }
+  
